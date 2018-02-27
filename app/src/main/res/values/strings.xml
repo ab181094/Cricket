@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cricket</string>
+    <string name="action_settings">Settings</string>
+    <string name="scorecard">Scorecard</string>
+    <string name="total">Total: </string>
+    <string name="target">Target:</string>
+    <string name="overs">Overs:</string>
+    <string name="batting">Batting</string>
+    <string name="remaining_runs">Remaining Runs</string>
+    <string name="team">Team</string>
+    <string name="team_innings">Team Innings</string>
+    <string name="first_batsman">First Batsman</string>
+    <string name="runs">Runs</string>
+    <string name="balls">Balls</string>
+    <string name="_100">100</string>
+    <string name="second_batsman">Second Batsman</string>
+    <string name="bowling">Bowling</string>
+    <string name="bowler">Bowler</string>
+    <string name="commentary">Commentary</string>
+    <string name="hit">Hit</string>
+    <string name="score">Score:</string>
+</resources>
